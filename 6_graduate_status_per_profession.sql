@@ -1,5 +1,5 @@
 
-# graduat status of perfession
+# graduat status of profession
 
 create temporary table grad_stat (
 select profession, graduated, count(ID) as number_of_people
